@@ -70,8 +70,8 @@ module.exports = function (grunt) {
             options: {
                 port: 9000,
                 livereload: 35729,
-                // change this to '0.0.0.0' to access the server from outside
-                hostname: '0.0.0.0'
+                // change this to '10.2.50.22' to access the server from outside
+                hostname: '10.2.50.22'
             },
             livereload: {
                 options: {
@@ -103,7 +103,7 @@ module.exports = function (grunt) {
                 proxies: [
                     {
                         context: '/',
-                        host: '0.0.0.0:9000',
+                        host: '10.2.50.22:9000',
                         changeOrigin: true
                     }
                 ]
