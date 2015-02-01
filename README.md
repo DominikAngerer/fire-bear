@@ -1,2 +1,2 @@
 # Fire-Bear
-Comming soon.
+Coming soon.
