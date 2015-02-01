@@ -1,0 +1,23 @@
+header.main {
+	background:$primary-color;
+	height:180px;
+	width:100%;
+	.inner {
+		.top {
+			background:yellow;
+		}
+		.center {
+			background:green;
+		}
+		.bottom {
+			background:blue;
+		}
+		max-width:1224px;
+		margin: 0 auto;
+	}
+}
+header.darkened-line{
+	background:$dark-primary-color;
+	height:15px;
+	width:100%;
+}
