@@ -6,8 +6,9 @@ Link is coming soon - stay tuned and follow ;)
 
 ## Thanks to:
 - [Mike Penz] for the Android Screenshots in a good quality
-- [Stefan Baumgartner] for [griddler]
+- [Stefan Baumgartner] for [griddler] & the [netural-generator].
 
 [Mike Penz]:http://github.com/mikepenz/
 [Stefan Baumgartner]:https://github.com/ddprrt/
 [griddler]:https://github.com/ddprrt/griddler/
+[netural-generator]:https://github.com/ddprrt/generator-netural/
