@@ -4,16 +4,6 @@ Link is coming soon - stay tuned and follow ;)
 ## Preview
 ![Preview Image](http://adtime.at/projects/github/fire-bear/images/fire-bear.jpg)
 
-## Thanks to:
-- [Mike Penz] for the Android Screenshots in a good quality
-- [Stefan Baumgartner] for [griddler] & the [netural-generator].
-
-# Fire-Bear
-Link is coming soon - stay tuned and follow ;)
-
-## Preview
-![Preview Image](http://adtime.at/projects/github/fire-bear/images/fire-bear.jpg)
-
 ## Installation
 
 After checkout, execute the following steps
