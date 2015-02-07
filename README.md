@@ -12,7 +12,7 @@ Feel free to add more style guidelines you want to see - simple open an issue. I
 - Microsoft -  Windows Phone
 - Apple - Mac OS X
 - Microsoft - Windows 8.1
-- 
+
 ## Installation
 
 After checkout, execute the following steps
