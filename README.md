@@ -1,6 +1,9 @@
 # Fire-Bear
 Finally the source is out. Link can be found below. Hope you like it!
 
+## Contribute!
+Feel free to add more style guidelines you want to see - simple open an issue. If you app should be also in our preview feel free to add a screenshot + issue or maybe do a pull request as well and add it yourself ;)
+
 ## Preview
 ![Preview Image](http://adtime.at/projects/github/fire-bear/images/fire-bear.jpg)
 
@@ -9,10 +12,7 @@ Finally the source is out. Link can be found below. Hope you like it!
 - Microsoft -  Windows Phone
 - Apple - Mac OS X
 - Microsoft - Windows 8.1
-
-## Contribute!
-Feel free to add more style guidelines you want to see - simple open an issue. If you app should be also in our preview feel free to add a screenshot + issue or maybe do a pull request as well and add it yourself ;)
-
+- 
 ## Installation
 
 After checkout, execute the following steps
