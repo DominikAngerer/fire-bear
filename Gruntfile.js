@@ -3,7 +3,6 @@
 /** build with generator-netural 0.1.4 **/
 
 module.exports = function (grunt) {
-     var proxySnippet = require('grunt-connect-proxy/lib/utils').proxyRequest;
     // show elapsed time at the end
     require('time-grunt')(grunt);
     // load all grunt tasks
@@ -93,8 +92,6 @@ module.exports = function (grunt) {
                         options.base.forEach(function(base) {
                             middlewares.push(connect.static(base));
                         });
-
-                        middlewares.push(proxySnippet);
 
                         middlewares.push(connect.directory(directory));
                         return middlewares;
