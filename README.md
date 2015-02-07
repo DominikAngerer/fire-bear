@@ -6,14 +6,14 @@ Feel free to add more style guidelines you want to see - simple open an issue. I
 
 ```html
 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-		<a class="element" style="background-image:url(./images/overview-elements/LollipopShowcase.png);" href="https://github.com/mikepenz/LollipopShowcase">
-			<div class="body">
-				<div class="inner">
-					Lollipop Showcase
-				</div>
+	<a class="element" style="background-image:url(./images/overview-elements/LollipopShowcase.png);" href="https://github.com/mikepenz/LollipopShowcase">
+		<div class="body">
+			<div class="inner">
+				Lollipop Showcase
 			</div>
-		</a>
-	</div>
+		</div>
+	</a>
+</div>
 ```
 
 Add the snippet above to the section (android, ios, windowsphone, ...) you want it to be.
