@@ -8,7 +8,6 @@ header.main {
 			.left {
 				float:left;
 				max-width:350px;
-				margin-left:-15px;
 				ul {
 					list-style:none;
 					margin:0;
@@ -26,13 +25,17 @@ header.main {
 								color:$accent-color;
 							}
 						}
+						&:first-child {
+							a {
+								padding:10px 15px 10px 0px;
+							}
+						}
 					}
 				}
 			}
 			.right {
 				float:right;
 				max-width:350px;
-				margin-right:-15px;
 				ul {
 					list-style:none;
 					margin:0;
@@ -48,6 +51,11 @@ header.main {
 							transition:color 500ms ease;
 							&:hover {
 								color:$accent-color;
+							}
+						}
+						&:last-child {
+							a {
+								padding:10px 0px 10px 15px;
 							}
 						}
 					}
