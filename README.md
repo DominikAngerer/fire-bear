@@ -66,6 +66,9 @@ grunt bower-install
 - [Mike Penz] for the Android Screenshots in a good quality
 - [Stefan Baumgartner] for [griddler] & the [netural-generator].
 
+### Find the live example [@dominikangerer.com]
+
+[@dominikangerer.com]:http://dominikangerer.com
 [Mike Penz]:http://github.com/mikepenz/
 [Stefan Baumgartner]:https://github.com/ddprrt/
 [griddler]:https://github.com/ddprrt/griddler/
