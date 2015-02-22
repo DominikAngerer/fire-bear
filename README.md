@@ -73,4 +73,4 @@ grunt bower-install
 [Stefan Baumgartner]:https://github.com/ddprrt/
 [griddler]:https://github.com/ddprrt/griddler/
 [netural-generator]:https://github.com/ddprrt/generator-netural/
-[Preview]:http://adtime.at/projects/github/fire-bear/
+[Preview]:http://dominikangerer.com/projects/github/fire-bear/
