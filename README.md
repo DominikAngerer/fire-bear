@@ -66,6 +66,9 @@ grunt bower-install
 - [Mike Penz] for the Android Screenshots in a good quality
 - [Stefan Baumgartner] for [griddler] & the [netural-generator].
 
+## Mentioned here:
+- [materialup.com]:firebear-app-review-page-concept
+
 ### Find the live example [@dominikangerer.com]
 
 [@dominikangerer.com]:http://dominikangerer.com
@@ -74,3 +77,4 @@ grunt bower-install
 [griddler]:https://github.com/ddprrt/griddler/
 [netural-generator]:https://github.com/ddprrt/generator-netural/
 [Preview]:http://dominikangerer.com/projects/github/fire-bear/
+[materialup.com]:http://www.materialup.com/posts/firebear-app-review-page-concept
